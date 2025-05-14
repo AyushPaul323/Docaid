@@ -1,0 +1,19 @@
+.m-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* width: 3vw !important; */
+}
+.mb-45{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 3vh;
+}
+.face{
+    width: 5vw !important;
+}
+.ki{
+    background-color: #ffffff !important;
+background-image: url("https://www.transparenttextures.com/patterns/diagmonds-light.png") !important; 
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}

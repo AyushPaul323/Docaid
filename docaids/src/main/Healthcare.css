@@ -1,0 +1,56 @@
+.py-5555{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding-bottom: 4vh;
+}
+
+.hiiii{
+    margin-left: -36vw;
+    padding-bottom: 0vh;
+    
+}
+.hiii{
+    width: 250vw;
+    height: 63vh;
+    background-color: #ffffff !important;
+  background-image: url("https://www.transparenttextures.com/patterns/diagmonds-light.png") !important; 
+  /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+.w-1000{
+    border-radius: 10vh;
+    width: 30vw;
+    height: 50vh;
+}
+
+
+.fbi{
+    width: 20vw;
+    height: 20vh;
+    display: flex;
+    flex-direction: row;
+}
+
+.py-555556{
+    display: flex;
+    flex-direction: row;
+}
+.hu{
+    font-weight: 700;
+}
+.huuui{
+    font-weight: 900;
+}
+
+.me-21{
+    color: black;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.sqw{
+    height:18.2vh ;
+}
+.gu{
+    background-color: #ffffff !important;
+  background-image: url("https://www.transparenttextures.com/patterns/diagmonds-light.png") !important;
+}

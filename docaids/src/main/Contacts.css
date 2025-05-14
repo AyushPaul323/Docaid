@@ -1,0 +1,222 @@
+.contact-section23 {
+    padding: 7.4em 0;
+    background-color: #00855f !important;
+background-image: url("https://www.transparenttextures.com/patterns/diagmonds.png") !important;
+min-height: 100vh;
+max-height: 100vh;
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+  }
+  
+  .wrapper {
+    width: 100%;
+    -webkit-box-shadow: 0px 21px 41px -13px rgba(0, 0, 0, 0.18);
+    -moz-box-shadow: 0px 21px 41px -13px rgba(0, 0, 0, 0.18);
+    box-shadow: 0px 21px 41px -13px rgba(0, 0, 0, 0.18);
+    padding-top: 4vh;
+  }
+  
+  .contact-wrap {
+    background: rgba(127, 39, 156, 1);
+    background: -moz-linear-gradient(
+      -45deg,
+      rgb(79, 224, 145) 100%,
+      rgb(0, 0, 0) 0%
+    );
+    background: -webkit-gradient(
+      left top,
+      right bottom,
+      color-stop(0%, rgb(2, 2, 2)),
+      color-stop(100%, rgba(46, 39, 157, 1))
+    );
+    background: -webkit-linear-gradient(
+      -45deg,
+      rgb(0, 0, 0) 0%,
+      rgba(46, 39, 157, 1) 100%
+    );
+    background: -o-linear-gradient(
+      -45deg,
+      rgb(224, 192, 235) 0%,
+      rgba(46, 39, 157, 1) 100%
+    );
+    background: -ms-linear-gradient(
+      -45deg,
+      rgb(216, 192, 224) 0%,
+      rgba(46, 39, 157, 1) 100%
+    );
+    background: linear-gradient(
+      135deg,
+      rgb(0, 0, 0) 0%,
+      rgb(40, 228, 196) 100%
+      
+    );
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7f279c', endColorstr='#2e279d', GradientType=1 );
+    h3 {
+      color: #fff;
+    }
+  }
+  
+  h3 {
+    color: white;
+  }
+  
+  .img {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  
+  .form-control {
+    height: 62px;
+    background: transparent;
+    color: rgba(0, 0, 0, 0.8) !important;
+    font-size: 16px;
+    border-radius: 0px;
+    box-shadow: none !important;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    &::-webkit-input-placeholder {
+      /* Chrome/Opera/Safari */
+      color: rgba(255, 255, 255, 0.5) !important;
+    }
+    &::-moz-placeholder {
+      /* Firefox 19+ */
+      color: rgba(255, 252, 252, 0.5) !important;
+    }
+    &:-ms-input-placeholder {
+      /* IE 0+ */
+    }
+    &:-moz-placeholder {
+      /* Firefox 18- */
+      color: rgba(0, 0, 0, 0.5) !important;
+    }
+    &:focus,
+    &:active {
+      background: transparent;
+      border-color: rgba(255, 255, 255, 0.5) !important;
+    }
+  }
+  
+  textarea.form-control {
+    height: inherit !important;
+    margin-top: 5px;
+  }
+  
+  .contactForm {
+    .form-control {
+      border: none;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+      padding: 0;
+    }
+  }
+  
+  .btn {
+    padding: 12px 16px;
+    cursor: pointer;
+    border-width: 1px;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: 400;
+    -webkit-box-shadow: 0px 10px 20px -6px rgba(0, 0, 0, 0.12);
+    -moz-box-shadow: 0px 10px 20px -6px rgba(0, 0, 0, 0.12);
+    box-shadow: 0px 10px 20px -6px rgba(0, 0, 0, 0.12);
+    position: relative;
+    margin-top: 20px;
+  }
+  
+  .btn-primary123{
+    background: #19b38c;
+    font-family: sans-serif;
+  }
+  .info-wrap {
+    h3 {
+      color: #000;
+      position: relative;
+      &:after {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 60px;
+        height: 3px;
+        background: #d62196;
+        content: "";
+      }
+    }
+    .dbox {
+      width: 100%;
+      color: rgba(0, 0, 0, 0.8);
+      margin-bottom: 25px;
+      &:last-child() {
+        margin-bottom: 0;
+      }
+      p {
+        margin-bottom: 0;
+        span {
+          font-weight: 400;
+          color: #000;
+        }
+        a {
+          color: rgb(0, 0, 0);
+        }
+      }
+      .icon {
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        border: 1px solid rgb(0, 0, 0);
+        span {
+          font-size: 20px;
+          color: #000;
+        }
+      }
+      .text {
+        width: calc(100% - 50px);
+      }
+    }
+  }
+  
+  /* h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  .h1,
+  .h2,
+  .h3,
+  .h4,
+  .h5 {
+    line-height: 1.5;
+    font-weight: 400;
+    font-family: "Poppins", Arial, sans-serif;
+    color: #a8a8a8;
+  } */
+  
+  a {
+    transition: 0.3s all ease;
+    color: #000000;
+    text-decoration: none;
+    &:hover,
+    &:focus {
+      text-decoration:none !important;
+      outline:shadow !important;
+      box-shadow: none;
+    }
+  }
+  
+  #contactForm {
+    .form-control {
+      font-size: 16px;
+    }
+  }
+  
+  
+  .mbb-4{
+    padding-bottom: 2.7vh;
+  }
+
+  .gghh{
+    width: 30vw;
+  }
+.container123ayush{
+  display: flex;
+  justify-content: center;
+  padding-left: 6vw;
+}

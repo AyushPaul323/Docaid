@@ -1,0 +1,20 @@
+.Pic{
+    padding-left: 1vw;
+    padding-right: 1vw;
+    padding-top: 4vw;
+    border-radius: 4px;
+    text-align: center;
+}
+.d-block{
+    border-radius: 5%;
+    height: 80vh;
+    width: 70vw !important;
+    margin-left: 15vw;
+}
+
+.ppic{
+    background-color: #00bfff !important;
+  background-image: url("https://www.transparenttextures.com/patterns/diagmonds-light.png") !important;
+  /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+ 

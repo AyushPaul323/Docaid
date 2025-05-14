@@ -1,0 +1,42 @@
+.reru{
+    padding-left: 1vw;
+}
+.nav-link{
+    font-size: large;
+    font-weight: bold ; 
+    font-style: italic;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.nnn:hover{
+    cursor: pointer;
+    animation: infinite;
+}
+
+
+.a11{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+   color: #000000;
+   font-style: oblique;
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+   font-size: medium;
+   font-variant: small-caps;
+   padding: 8px 22px;
+   border-radius: 6px;
+   background: #00bfff;
+   transition: all 0.2s ease;
+   border-color: rgb(40, 43, 42);
+  }
+
+    .a11:active{
+        transform: scale(0.96);
+    }
+
+    .a11:hover{
+        transform: scale(1.2);
+    }
+
+    .navv{
+        background-color: #ffffff !important;
+    background-image: url("https://www.transparenttextures.com/patterns/diagmonds-light.png") !important; 
+    /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+    }
